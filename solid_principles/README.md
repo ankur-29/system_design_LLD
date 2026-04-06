@@ -1,5 +1,6 @@
 # SOLID Principles
 SOLID is a set of 5 design principles that help make software more maintainable, scalable, and testable.
+
 ---------------------------------------------------------------------------------
 ## 1. Single Responsibility Principle (SRP)
 ### Definition
@@ -30,6 +31,13 @@ Open for extension, closed for modification.
 
 ### Key Idea
 Use interfaces and polymorphism
+
+## OCP Example (Payment System)
+- Bad: if-else based payment handling
+- Good: Payment interface + multiple implementations
+
+### Key Benefit
+New payment methods can be added without modifying existing code.
 
 ---------------------------------------------------------------------------------
 ## 3. Liskov Substitution Principle (LSP)

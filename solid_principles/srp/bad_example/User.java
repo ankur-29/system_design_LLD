@@ -5,6 +5,8 @@
 //   3. Sending emails
 //   4. Generating reports
 
+package solid_principles.srp.bad_example;
+
 class User {
     private String name;
     private String email;
