@@ -40,3 +40,17 @@ UI Theme System:
 Ensures consistency among related objects.
 
 --------------------------------------------------------------------------
+## Builder Pattern
+
+Used to construct complex objects step-by-step.
+
+### Problem
+Constructor explosion and unreadable code.
+
+### Solution
+Use a Builder class with chained methods.
+
+### Key Insight
+Improves readability and flexibility for object creation.
+
+--------------------------------------------------------------------------
