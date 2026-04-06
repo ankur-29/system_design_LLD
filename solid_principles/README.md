@@ -60,6 +60,14 @@ Do not force behavior into base classes that all subclasses cannot support.
 ### Definition
 Do not force classes to implement unused methods.
 
+## ISP Example (Worker System)
+
+- Bad: One interface with work + eat
+- Good: Separate Workable and Eatable
+
+### Key Insight
+Interfaces should be small and specific to client needs.
+
 ---------------------------------------------------------------------------------
 
 ## 5. Dependency Inversion Principle (DIP)
