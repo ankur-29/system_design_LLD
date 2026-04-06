@@ -45,6 +45,14 @@ New payment methods can be added without modifying existing code.
 ### Definition
 Subclasses should replace parent without breaking behavior.
 
+## LSP Example (Bird Problem)
+
+- Bad: All birds can fly
+- Good: Separate FlyingBird class
+
+### Key Insight
+Do not force behavior into base classes that all subclasses cannot support.
+
 ---------------------------------------------------------------------------------
 
 ## 4. Interface Segregation Principle (ISP)
