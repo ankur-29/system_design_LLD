@@ -54,3 +54,13 @@ Use a Builder class with chained methods.
 Improves readability and flexibility for object creation.
 
 --------------------------------------------------------------------------
+## Prototype Pattern
+
+Creates objects by cloning existing instances.
+
+### Types
+- Shallow Copy (shares references)
+- Deep Copy (creates new objects)
+
+### Key Insight
+Always use deep copy for mutable objects.
