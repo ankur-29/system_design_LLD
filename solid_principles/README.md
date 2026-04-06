@@ -75,7 +75,15 @@ Interfaces should be small and specific to client needs.
 ### Definition
 Depend on abstractions, not concrete classes.
 
----
+## DIP Example (Database System)
+
+- Bad: UserService directly depends on MySQL
+- Good: UserService depends on Database interface
+
+### Key Insight
+Dependencies should be injected, not created inside classes.
+
+---------------------------------------------------------------------------------
 
 ## 🔥 Summary
 
