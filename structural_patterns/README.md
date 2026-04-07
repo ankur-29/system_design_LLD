@@ -31,3 +31,14 @@ Order system with Inventory, Payment, Shipping
 Hide complexity and expose a simple API.
 
 --------------------------------------------------------------------------
+## Proxy Pattern
+
+Provides a placeholder to control access to another object.
+
+### Example
+Secure document access system
+
+### Key Insight
+Adds security, lazy loading, and caching without modifying original class.
+
+--------------------------------------------------------------------------
