@@ -18,3 +18,16 @@ Coffee with Milk and Sugar
 
 ### Key Insight
 Uses composition to extend functionality at runtime.
+
+--------------------------------------------------------------------------
+## Facade Pattern
+
+Provides a simplified interface to a complex system.
+
+### Example
+Order system with Inventory, Payment, Shipping
+
+### Key Insight
+Hide complexity and expose a simple API.
+
+--------------------------------------------------------------------------
