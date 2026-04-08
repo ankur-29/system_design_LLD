@@ -53,3 +53,12 @@ Remote Control + TV/Radio
 Avoids class explosion by using composition.
 
 --------------------------------------------------------------------------
+## Flyweight Pattern
+
+Reduces memory usage by sharing objects.
+
+### Example
+Text editor characters
+
+### Key Insight
+Separate intrinsic (shared) and extrinsic (unique) data.
