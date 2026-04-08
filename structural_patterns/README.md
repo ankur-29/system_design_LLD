@@ -42,3 +42,14 @@ Secure document access system
 Adds security, lazy loading, and caching without modifying original class.
 
 --------------------------------------------------------------------------
+## Bridge Pattern
+
+Separates abstraction from implementation so both can vary independently.
+
+### Example
+Remote Control + TV/Radio
+
+### Key Insight
+Avoids class explosion by using composition.
+
+--------------------------------------------------------------------------
