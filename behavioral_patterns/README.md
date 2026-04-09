@@ -20,3 +20,14 @@ YouTube channel notifications
 Loose coupling between subject and observers.
 
 --------------------------------------------------------------------------
+## Command Pattern
+
+Encapsulates a request as an object.
+
+### Example
+Remote control (Light ON/OFF)
+
+### Key Insight
+Supports undo, queueing, and decouples sender from receiver.
+
+--------------------------------------------------------------------------
