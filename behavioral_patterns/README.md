@@ -31,3 +31,14 @@ Remote control (Light ON/OFF)
 Supports undo, queueing, and decouples sender from receiver.
 
 --------------------------------------------------------------------------
+## State Pattern
+
+Allows an object to change behavior when its state changes.
+
+### Example
+Order lifecycle (Created → Paid → Shipped)
+
+### Key Insight
+Replace conditional logic with state classes.
+
+--------------------------------------------------------------------------
