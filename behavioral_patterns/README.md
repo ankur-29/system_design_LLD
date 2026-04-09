@@ -9,3 +9,14 @@ Payment methods (UPI, Card, PayPal)
 Encapsulate what varies and switch behavior at runtime.
 
 --------------------------------------------------------------------------
+## Observer Pattern
+
+Defines a one-to-many relationship where observers are notified of changes.
+
+### Example
+YouTube channel notifications
+
+### Key Insight
+Loose coupling between subject and observers.
+
+--------------------------------------------------------------------------
