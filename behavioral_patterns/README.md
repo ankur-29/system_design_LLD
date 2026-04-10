@@ -53,3 +53,14 @@ Data processing (CSV vs JSON)
 Fix the flow, allow customization of steps.
 
 --------------------------------------------------------------------------
+## Iterator Pattern
+
+Provides a way to traverse a collection without exposing its internal structure.
+
+### Example
+Iterating over names list
+
+### Key Insight
+Encapsulate traversal logic.
+
+--------------------------------------------------------------------------
