@@ -64,3 +64,14 @@ Iterating over names list
 Encapsulate traversal logic.
 
 --------------------------------------------------------------------------
+## Mediator Pattern
+
+Centralizes communication between objects to reduce coupling.
+
+### Example
+Chat room system
+
+### Key Insight
+Objects communicate through a mediator instead of directly.
+
+--------------------------------------------------------------------------
