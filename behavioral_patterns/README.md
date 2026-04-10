@@ -42,3 +42,14 @@ Order lifecycle (Created → Paid → Shipped)
 Replace conditional logic with state classes.
 
 --------------------------------------------------------------------------
+## Template Method Pattern
+
+Defines the skeleton of an algorithm and lets subclasses override steps.
+
+### Example
+Data processing (CSV vs JSON)
+
+### Key Insight
+Fix the flow, allow customization of steps.
+
+--------------------------------------------------------------------------
