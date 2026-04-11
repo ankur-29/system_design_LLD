@@ -92,3 +92,17 @@ Decouples sender and receiver by allowing multiple objects to handle a request i
 - Middleware pipelines
 
 --------------------------------------------------------------------------
+## Interpreter Pattern
+
+Defines a grammar and interprets expressions based on that grammar.
+
+### Example
+Expression evaluators, SQL parsing, regex engines
+
+### Key Insight
+Represents grammar rules as classes and evaluates expressions using those rules.
+
+### Use Cases
+- Compilers
+- Query parsing
+- Rule engines
