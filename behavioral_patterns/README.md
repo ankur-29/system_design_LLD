@@ -119,3 +119,12 @@ Shopping cart price calculation
 Separate operations from objects using double dispatch.
 
 --------------------------------------------------------------------------
+## Memento Pattern
+
+Captures and restores object state without exposing internal details.
+
+### Example
+Text editor undo feature
+
+### Key Insight
+Separates state storage from object logic.
