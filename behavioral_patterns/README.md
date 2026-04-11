@@ -75,3 +75,20 @@ Chat room system
 Objects communicate through a mediator instead of directly.
 
 --------------------------------------------------------------------------
+## Chain of Responsibility Pattern
+
+Passes a request through a chain of handlers, where each handler can either process the request or pass it to the next handler.
+
+### Example
+Logging system / Authentication middleware chain
+
+### Key Insight
+Decouples sender and receiver by allowing multiple objects to handle a request in sequence.
+
+### Use Cases
+- Spring Security filters
+- Servlet filters
+- Logging frameworks
+- Middleware pipelines
+
+--------------------------------------------------------------------------
