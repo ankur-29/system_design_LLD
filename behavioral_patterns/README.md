@@ -106,3 +106,16 @@ Represents grammar rules as classes and evaluates expressions using those rules.
 - Compilers
 - Query parsing
 - Rule engines
+
+--------------------------------------------------------------------------
+## Visitor Pattern
+
+Allows adding new operations without modifying existing object structure.
+
+### Example
+Shopping cart price calculation
+
+### Key Insight
+Separate operations from objects using double dispatch.
+
+--------------------------------------------------------------------------
